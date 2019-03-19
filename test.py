@@ -1,4 +1,4 @@
-aaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbb
-bbbbbbbbbbbbbbbbbb
-bjjjjjjjjjjjj
+print("aaaaaaaaaaaa")
+print("bbbbbbbbbbb")
+print("ccccccccccc")
+
